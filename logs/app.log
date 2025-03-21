@@ -1,0 +1,9 @@
+2025-03-19 22:42:13 [main] INFO  LogTest - INFO log test
+2025-03-19 22:42:13 [main] WARN  LogTest - WARN log test
+2025-03-19 22:42:13 [main] ERROR LogTest - ERROR log test
+2025-03-19 22:42:37 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-03-19 22:42:38 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@134d26af
+2025-03-19 22:42:38 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-03-19 22:42:38 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-03-19 22:42:38 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection org.postgresql.jdbc.PgConnection@621f89b8
+2025-03-19 22:42:38 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
