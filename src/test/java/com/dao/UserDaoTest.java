@@ -1,10 +1,10 @@
 package com.dao;
 
 import com.testRepository.TestDatabaseContainer;
-import com.financeTracker.dao.UserDao;
-import com.financeTracker.dao.impl.UserDaoImpl;
-import com.financeTracker.model.entity.User;
-import com.financeTracker.util.DatabaseManager;
+import com.learnPlatform.dao.UserDao;
+import com.learnPlatform.dao.impl.UserDaoImpl;
+import com.learnPlatform.model.entity.User;
+import com.learnPlatform.util.DatabaseManager;
 import org.junit.jupiter.api.*;
 
 import static org.junit.jupiter.api.Assertions.*;

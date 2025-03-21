@@ -1,8 +1,8 @@
 package com.testRepository;
 
-import com.financeTracker.util.Config;
-import com.financeTracker.util.DatabaseManager;
-import com.financeTracker.util.LiquibaseMigrator;
+import com.learnPlatform.util.Config;
+import com.learnPlatform.util.DatabaseManager;
+import com.learnPlatform.util.LiquibaseMigrator;
 import lombok.Getter;
 import org.testcontainers.containers.PostgreSQLContainer;
 
